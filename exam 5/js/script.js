@@ -1,15 +1,15 @@
 // 1 tapsyrma
 
 
-// function tapsyrma() {
-//     let san1 = +prompt(` Birinshi sandy engiz`)
-//     let san2 = +prompt(`Ekinshi sandy engiz`)
-//     alert( ` qosu ${san1 + san2}
-//  azai ${san1 - san2} 
-//  kobeitu ${san1 * san2}
-//  bolu ${san1 /san2} ` )
-//     }
-// tapsyrma()
+function tapsyrma() {
+    let san1 = +prompt(` Birinshi sandy engiz`)
+    let san2 = +prompt(`Ekinshi sandy engiz`)
+    alert( ` qosu ${san1 + san2}
+ azai ${san1 - san2} 
+ kobeitu ${san1 * san2}
+ bolu ${san1 /san2} ` )
+    }
+tapsyrma()
 
 
 
