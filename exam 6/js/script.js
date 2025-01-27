@@ -46,7 +46,6 @@ let eShop = {
         let newProductPrice= prompt("Qosatyn produkttyn bagasyn zhaz")
         let newProductStock = prompt("Sany qansha")
         console.log( newProductName =  eShop.products.pop , newProductCategory =  eShop.products.pop, newProductPrice =  eShop.products.pop, newProductStock =  eShop.products.pop, );
-        
     }
 
 }
