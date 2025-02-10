@@ -14,11 +14,6 @@ async function fetchData() {
         let data = await user.json()
         console.log(data);
         
-        let qwix = Math.floor(Math.random() * data.record.tasks.length)
-        
-        
-
-        console.log(qwix);
         
         
         btn.addEventListener("click", function(){
